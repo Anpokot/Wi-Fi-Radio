@@ -1,0 +1,39 @@
+PCAD Importer Log
+Project : 734120110.LibPkg
+
+Section : D:\Work\Altium\My Projects\Wi-Fi Radio\Lib\734120110\734120110.lia
+    Section : PCB Library - 734120110.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1 On Line 97
+            Warning - 1 : Skipping Token 2 On Line 98
+            Warning - 1 : Skipping Token 3 On Line 99
+            Warning - 1 : Skipping Token BNC-MGND On Line 184
+            Warning - 1 : Skipping Token attachedSymbol On Line 257
+            Warning - 1 : Skipping Token 3 On Line 260
+            Warning - 1 : Skipping Token 2 On Line 262
+            Warning - 1 : Skipping Token 1 On Line 264
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*734120110][Primary] associated with PCAD Component [734120110] has been renamed to PCB FootPrint [*734120110_734120110(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 734120110.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 136
+            Warning - 1 : Skipping Token layerContents On Line 170
+            Warning - 1 : Skipping Token 3 On Line 260
+            Warning - 1 : Skipping Token 2 On Line 262
+            Warning - 1 : Skipping Token 1 On Line 264
+        EndSection
+
+        Section : Generating SCH Library - 734120110.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*734120110][Primary] associated with PCAD Component [734120110] has been renamed to PCB FootPrint [*734120110_734120110(Primary)].
+        EndSection
+    EndSection
+EndSection
