@@ -1,4 +1,4 @@
-﻿Field=#~Integer~#~50|Field=Designator~String~Designator~216|Field=Comment~String~Comment~83|Field=Description~String~Description~218|Field=Footprint~String~Footprint~117|Field=Quantity~Integer~Quantity~116|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Wi-Fi Radio.PrjPcb|ReportField=ProjectFullPath~D:\Work\Altium\My Projects\Wi-Fi Radio.PrjPcb|ReportField=Title~Bill of Materials For Variant [Regular] of PCB Document [Wi-FiR.PcbDoc]|ReportField=TotalQuantity~98|ReportField=ReportTime~5:20:46 PM|ReportField=ReportDate~1/23/2020|ReportField=ReportDateTime~1/23/2020 5:20:46 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~Regular|ReportField=DataSourceFileName~Wi-FiR.PcbDoc|ReportField=DataSourceFullPath~D:\Work\Altium\My Projects\Wi-Fi Radio\Wi-FiR.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~216|Field=Comment~String~Comment~83|Field=Description~String~Description~218|Field=Footprint~String~Footprint~117|Field=Quantity~Integer~Quantity~116|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Wi-Fi Radio.PrjPcb|ReportField=ProjectFullPath~D:\Work\GitHub\Wi-Fi-Radio\Wi-Fi Radio.PrjPcb|ReportField=Title~Bill of Materials For Variant [Isolated Amp] of PCB Document [Wi-FiR.PcbDoc]|ReportField=TotalQuantity~98|ReportField=ReportTime~1:24:33 PM|ReportField=ReportDate~5/26/2020|ReportField=ReportDateTime~5/26/2020 1:24:33 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~Isolated Amp|ReportField=DataSourceFileName~Wi-FiR.PcbDoc|ReportField=DataSourceFullPath~D:\Work\GitHub\Wi-Fi-Radio\Wi-Fi Radio\Wi-FiR.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
 1|C1, C15|0.1uF|CAP CER 0.1uF 0805 50V X7R|CAP 0805|2
 2|C2, C32, C33|0.01uF|CAP CER 0.01uF 0603 10 nF 50 V ±10 % Tolerance X7R SMT Multilayer Ceramic Chip Capacitor|CAP 0603|3
 3|C3, C4, C7, C41|1uF|CAP CER 1uF 0603 16V X7R 10% SMD 125C Paper T/R|CAP 0603|4
@@ -11,38 +11,40 @@
 10|C17, C23, C27|10uF|CAP TANT 10UF 1206 6.3V 10%|CAP 1206|3
 11|C34, C43, C44|47nF|CAP CER 47nF 0603 25 V ±5 % Tolerance X7R SMT Multilayer Ceramic Chip Capacitor|CAP 0603|3
 12|C39, C40|33pF|CAP CER 33PF 0603 250V C0G/NP0|CAP 0603|2
-13|D1|1N5819|DIODE SCHOTTKY 40V 1A SOD123|SOD123 DIODE|1
-14|D4|B|LED BLUE 0603 CLEAR CHIP SMD|LED 0603|1
-15|D5|G|LED GREEN 0603 574nm 2-Pin Chip LED T/R|LED 0603|1
-16|L1, L3|4n3|IND SMD 4.3nH 0603 850mA FIXED 59 MOHM|IND 0603 LQW|2
-17|L2|2n2|IND SMD 2.2NH 0402 300MA 160 MOHM|IND 0402|1
-18|Q1|12MHz|CRYSTAL SMD 12MHz ±10ppm (Tol) ±10ppm (Stability) 20pF FUND 120Ohm 4-Pin Ultra Mini-CSMD T/R|ABM8W|1
-19|Q2|26MHz|CRYSTAL SMD 26MHz 3.2mm ±10ppm (Tol) ±10ppm (Stability) 10pF FUND 50Ohm 4-Pin Ultra Mini-CSMD T/R|ABM8W|1
-20|Q3|12.288MHZ|CRYSTAL SMD 12.288MHZ Iot Optimized 12.29MHZ 8PF Crystal|ABM8W|1
-21|R1, R23|1M|RES SMD 1M 0603 1% 1/10W|RES 0603|2
-22|R2|0R|RES SMD 0R 0402 JUMPER 1/16W|RES 0405 - JUMPER|1
-23|R3, R4, R7, R13|12K|RES SMD 12K 0603 1% 1/10W|RES 0603|4
-24|R6, R31, R32, R33, R34, R35|10K|RES SMD 10K 0603 1% 1/10W|RES 0603|6
-25|R8, R11, R15|470R|RES SMD 470 0603 1% 1/10W|RES 0603|3
-26|R9, R12, R18, R20|20R|RES SMD 20 0603 1% 1/4W|RES 0603|4
-27|R14|2k2|RES SMD 2.2K 0603 1% 1/10W|RES 0603|1
-28|R16|499R|RES SMD 499 0603 1% 1/4W|RES 0603|1
-29|R17, R27|0R|RES SMD 0R 0603 JUMPER PU=5000 ST, CRCW06030000Z0EA, Vishay|RES 0603 - JUMPER|2
-30|R22, R28, R30|0R|RES SMD 0R 0805 JUMPER 1/2W|RES 0805 - JUMPER|3
-31|R24|10R|RES SMD 10 0603 1% 1/4W|RES 0603|1
-32|R25, R26, R29|100K|RES SMD 100K 0603 0.1W 1% SMT TCR 37 ppm/DegC|RES 0603|3
-33|SW1|RESET|SWITCH TACT SPST-NO 0.05A 12V|SWITCH MICRO|1
-34|SW2|FLASH|SWITCH TACT SPST-NO 0.05A 12V|SWITCH MICRO|1
-35|U1|CH340G|IC CH340G USB to serial chip|SOP-16|1
-36|U2|ESD|TVS DIODE 5V 20V SOT143|SOT143|1
-37|U3|ESP8266EX|IC ESP8266EX, QFN32-PIN, 5_5|QFN-32 THERMAL|1
-38|U4, U5|S8050|TRANS NPN 25V 1.5A SOT23|SOT-23|2
-39|U6, U10|3.3V|IC REG LIN 3.3V 300mALow IQLDO Reg|SOT-23-5|2
-40|U7|FLASH|IC FLASH 32M SPI 133MHZ 8SOIC|SOIC-8 208-MIL|1
-41|U8|PAM8403|IC AMP AUDIO 3W CLASS D 16SOIC|SOP-16|1
-42|U9|VS1053B|IC VS1053B MP3/WAV/OGG/MIDI Player & Recorder (CODEC) Chip|LQFP-48|1
-43|U12|1.8V|IC REG LIN 1.8V 300MA SOT23-5|SOT-23-5|1
-44|VR1|VOL|POT 50K LINEAR|POT PTD902|1
-45|X1|mocroUSB|CONN USB Type B RCP 5 POS 0.65mm Solder RA Thru-Hole 5 Terminal 1 Port Embossed T/R|MICROUSB|1
-46|X2|ANT|CONN U.FL 50OHM MOLEX 73412-0110 RF COAXIAL, MICROCOAXIAL, JACK|U.FL CONNECTOR|1
-47|X3|0393570004|TERMINAL 4 POS 3.5mm Solder ST Thru-Hole 17.5A/Contact Eurostyle™|TRMINAL 3.5MM|1
+13|C42|10uF|CAP CER 10UF 0805 10V X5R|CAP 0805|1
+14|D1|1N5819|DIODE SCHOTTKY 40V 1A SOD123|SOD123 DIODE|1
+15|D4|B|LED BLUE 0603 CLEAR CHIP SMD|LED 0603|1
+16|D5|G|LED GREEN 0603 574nm 2-Pin Chip LED T/R|LED 0603|1
+17|L1, L3|4n3|IND SMD 4.3nH 0603 850mA FIXED 59 MOHM|IND 0603 LQW|2
+18|L2|2n2|IND SMD 2.2NH 0402 300MA 160 MOHM|IND 0402|1
+19|Q1|12MHz|CRYSTAL SMD 12MHz ±10ppm (Tol) ±10ppm (Stability) 20pF FUND 120Ohm 4-Pin Ultra Mini-CSMD T/R|ABM8W|1
+20|Q2|26MHz|CRYSTAL SMD 26MHz 3.2mm ±10ppm (Tol) ±10ppm (Stability) 10pF FUND 50Ohm 4-Pin Ultra Mini-CSMD T/R|ABM8W|1
+21|Q3|12.288MHZ|CRYSTAL SMD 12.288MHZ Iot Optimized 12.29MHZ 8PF Crystal|ABM8W|1
+22|R1, R23|1M|RES SMD 1M 0603 1% 1/10W|RES 0603|2
+23|R2|0R|RES SMD 0R 0402 JUMPER 1/16W|RES 0405 - JUMPER|1
+24|R3, R4, R7, R13|12K|RES SMD 12K 0603 1% 1/10W|RES 0603|4
+25|R6, R31, R32, R33, R34, R35|10K|RES SMD 10K 0603 1% 1/10W|RES 0603|6
+26|R8, R11, R15|470R|RES SMD 470 0603 1% 1/10W|RES 0603|3
+27|R9, R12, R18, R20|20R|RES SMD 20 0603 1% 1/4W|RES 0603|4
+28|R14|2k2|RES SMD 2.2K 0603 1% 1/10W|RES 0603|1
+29|R16|499R|RES SMD 499 0603 1% 1/4W|RES 0603|1
+30|R17, R27|0R|RES SMD 0R 0603 JUMPER PU=5000 ST, CRCW06030000Z0EA, Vishay|RES 0603 - JUMPER|2
+31|R21|0R|RES SMD 0R 0805 JUMPER 1/2W|RES 0805 - JUMPER|1
+32|R24|10R|RES SMD 10 0603 1% 1/4W|RES 0603|1
+33|R25, R26, R29|100K|RES SMD 100K 0603 0.1W 1% SMT TCR 37 ppm/DegC|RES 0603|3
+34|SW1|RESET|SWITCH TACT SPST-NO 0.05A 12V|SWITCH MICRO|1
+35|SW2|FLASH|SWITCH TACT SPST-NO 0.05A 12V|SWITCH MICRO|1
+36|U1|CH340G|IC CH340G USB to serial chip|SOP-16|1
+37|U2|ESD|TVS DIODE 5V 20V SOT143|SOT143|1
+38|U3|ESP8266EX|IC ESP8266EX, QFN32-PIN, 5_5|QFN-32 THERMAL|1
+39|U4, U5|S8050|TRANS NPN 25V 1.5A SOT23|SOT-23|2
+40|U6, U10|3.3V|IC REG LIN 3.3V 300mALow IQLDO Reg|SOT-23-5|2
+41|U7|FLASH|IC FLASH 32M SPI 133MHZ 8SOIC|SOIC-8 208-MIL|1
+42|U8|PAM8403|IC AMP AUDIO 3W CLASS D 16SOIC|SOP-16|1
+43|U9|VS1053B|IC VS1053B MP3/WAV/OGG/MIDI Player & Recorder (CODEC) Chip|LQFP-48|1
+44|U11|DC-DC 5V-5V|DC DC CONVERTER 5V 1W|R1SE DC/DC|1
+45|U12|1.8V|IC REG LIN 1.8V 300MA SOT23-5|SOT-23-5|1
+46|VR1|VOL|POT 50K LINEAR|POT PTD902|1
+47|X1|mocroUSB|CONN USB Type B RCP 5 POS 0.65mm Solder RA Thru-Hole 5 Terminal 1 Port Embossed T/R|MICROUSB|1
+48|X2|ANT|CONN U.FL 50OHM MOLEX 73412-0110 RF COAXIAL, MICROCOAXIAL, JACK|U.FL CONNECTOR|1
+49|X3|0393570004|TERMINAL 4 POS 3.5mm Solder ST Thru-Hole 17.5A/Contact Eurostyle™|TRMINAL 3.5MM|1

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:24:10 PM On 5/26/2020
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Isolated Amp] of PCB Document [Wi-FiR.PcbDoc]
+   Generated File[Isolated Amp.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:24:42 PM On 5/26/2020
