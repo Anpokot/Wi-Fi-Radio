@@ -1,4 +1,5 @@
 ## Wi-Fi Radio Project
+![](/logo.PNG)
 
 ### Description
  Wi-Fi webradio using ESP8266 and VS1053
