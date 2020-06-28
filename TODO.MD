@@ -1,5 +1,6 @@
 1. Add mounting holes
-1. Match RF trace to 50 Ohm
+1. Trace impedance matching to 50 Ohm
+   * Add "USB" netclass, create rule and impedance profile
    * Add "RF" netclass, create rule and impedance profile
 1. Recalculate the value of crystal load capacitors `Cl= 2 * (CLOAD_CRYSTAL - C_STRAY)`
 1. Add another branch in development:
